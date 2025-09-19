@@ -36,20 +36,4 @@ I have worked on projects that served thousands of users, and continuously striv
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayat987&layout=compact&theme=dark" alt="Top Languages"/>
 </div>
-
-## 🎯 leetcode 
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/ayat987?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
-</div>
-
-
-## 🔗 Connect with Me
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ayat987.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/software_engineering)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ayat_osama)
-
 </div>
