@@ -5,7 +5,6 @@
 💼 **Current:** Software Engineer .
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayat osama&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ## 🚀 About Me
@@ -23,7 +22,6 @@ I have worked on projects that served thousands of users, and continuously striv
 ## 🔧 My Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![python](https://img.shields.io/badge/python-61DAFB?logo=python&logoColor=black)
 ![Html](https://img.shields.io/badge/Html-339933?logo=Html&logoColor=white)
 ![css](https://img.shields.io/badge/css-black?logo=css&logoColor=white)
