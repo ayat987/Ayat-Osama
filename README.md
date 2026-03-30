@@ -22,7 +22,11 @@ I'm a Computer Science student & problem solver.
 
 <details>
   <summary><b>Skills</b></summary>
-
+[![C++](https://img.shields.io/badge/C++-★★★-lightgrey?labelColor=00599C&logo=c%2B%2B&style=for-the-badge&logoColor=white)](https://isocpp.org/)
+[![OOP](https://img.shields.io/badge/OOP-★★★-lightgrey?labelColor=FF6F00&style=for-the-badge&logoColor=white)]()
+[![Data Structures](https://img.shields.io/badge/Data%20Structures-★★★-lightgrey?labelColor=6A1B9A&style=for-the-badge&logoColor=white)]()
+[![Algorithms](https://img.shields.io/badge/Algorithms-★★★-lightgrey?labelColor=2E7D32&style=for-the-badge&logoColor=white)]()
+  
 [![python](https://img.shields.io/badge/python-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
 [![javascript](https://img.shields.io/badge/javascript-★★☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)](https://www.w3schools.com/js)
 [![html](https://img.shields.io/badge/html-★★★-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](https://www.w3schools.com/html)
