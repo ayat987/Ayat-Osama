@@ -38,9 +38,9 @@ I'm a Computer Science student & problem solver.
 <details>
   <summary><b>Stats</b></summary>
 
-![stats](https://github-readme-stats.vercel.app/api?username=ayat987&show_icons=true&theme=tokyonight&hide_border=true)
+![stats](https://github-readme-stats.vercel.app/api?username=Ayat Osama&show_icons=true&theme=tokyonight&hide_border=true)
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayat987&layout=compact&theme=tokyonight&hide_border=true)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayat Osama&layout=compact&theme=tokyonight&hide_border=true)
 
 </details>
 
