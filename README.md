@@ -3,7 +3,7 @@
 ## Info
 
 Hi there, I'm Ayat Osama 👋  
-I'm a Computer Science student & problem solver.
+I'm a Computer Science student & Competitive Programmer.
 
 - I'm currently studying Computer Science  
 - ECPC Qualification Contest 2025 participant  
