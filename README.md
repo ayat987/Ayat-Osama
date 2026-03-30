@@ -1,37 +1,62 @@
-# Hey there, I'm Ayat-Osama 👋
+![header](https://raw.githubusercontent.com/Char-Al/char-al/master/puzzle.jpg)
 
-**CS Student ·problem solver .ECPC Qualification Contest 2025. Coach@ ICPC Benha . **
+## Info
 
-💼 **Current:** Software Engineer .
+Hi there, I'm Ayat Osama 👋  
+I'm a Computer Science student & problem solver.
 
-<p align="center">
-</p>
+- 💻 I'm currently studying Computer Science  
+- 🏆 ECPC Qualification Contest 2025 participant  
+- 👩‍🏫 Coach @ ICPC Benha Community  
+- 🌱 Currently learning: Problem Solving, Web Development  
+- ⚡ Fun fact: I love competitive programming & challenges  
 
-## 🚀 About Me
+</details>
 
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
+<details>
+  <summary><b>Where to find me</b></summary>
 
-I am a Software Engineer skilled  Html, python, css,javascript,and more. <br/>
-I have worked on projects that served thousands of users, and continuously strive to improve my skills and contribute to impactful teams.
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ayat987)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ayat-osama-68b458352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
+</details>
 
+<details>
+  <summary><b>Skills</b></summary>
 
+[![python](https://img.shields.io/badge/python-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
+[![javascript](https://img.shields.io/badge/javascript-★★☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)](https://www.w3schools.com/js)
+[![html](https://img.shields.io/badge/html-★★★-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](https://www.w3schools.com/html)
+[![css](https://img.shields.io/badge/css-★★★-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)](https://www.w3schools.com/css)
+
+[![Django](https://img.shields.io/badge/Django-★★☆-lightgrey?labelColor=092E20&logo=Django&style=for-the-badge&logoColor=white)](https://www.djangoproject.com/)
+[![flask](https://img.shields.io/badge/flask-★★☆-lightgrey?labelColor=000000&logo=Flask&style=for-the-badge&logoColor=white)](https://flask.palletsprojects.com/)
+
+[![Git](https://img.shields.io/badge/Git-★★★-lightgrey?labelColor=F05032&logo=Git&style=for-the-badge&logoColor=white)](https://git-scm.com/)
+
+</details>
+
+<details>
+  <summary><b>Stats</b></summary>
+
+![stats](https://github-readme-stats.vercel.app/api?username=ayat987&show_icons=true&theme=tokyonight&hide_border=true)
+
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayat987&layout=compact&theme=tokyonight&hide_border=true)
+
+</details>
+
+---
+
+## 👩‍💻 About Me
+
+<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200"/>
+
+I am a Computer Science student passionate about problem solving and software development.  
+I enjoy building web applications and solving competitive programming problems.  
+Currently improving my skills to participate in ICPC and become a strong software engineer.
 
 <br clear="right"/>
 
-## 🔧 My Tech Stack
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![python](https://img.shields.io/badge/python-61DAFB?logo=python&logoColor=black)
-![Html](https://img.shields.io/badge/Html-339933?logo=Html&logoColor=white)
-![css](https://img.shields.io/badge/css-black?logo=css&logoColor=white)
-![Django](https://img.shields.io/badge/Django-47A248?logo=Django&logoColor=white)
-![flask](https://img.shields.io/badge/flask-%2321759B.svg?logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayat987&layout=compact&theme=dark" alt="Top Languages"/>
-</div>
-</div>
+![](https://komarev.com/ghpvc/?username=ayat987&style=flat-square&label=Views)
