@@ -5,11 +5,10 @@
 Hi there, I'm Ayat Osama 👋  
 I'm a Computer Science student & problem solver.
 
-- 💻 I'm currently studying Computer Science  
-- 🏆 ECPC Qualification Contest 2025 participant  
-- 👩‍🏫 Coach @ ICPC Benha Community  
-- 🌱 Currently learning: Problem Solving, Web Development  
-- ⚡ Fun fact: I love competitive programming & challenges  
+- I'm currently studying Computer Science  
+- ECPC Qualification Contest 2025 participant  
+- Coach @ ICPC Benha Community  
+- Currently learning: Problem Solving, Web Development  
 
 </details>
 
